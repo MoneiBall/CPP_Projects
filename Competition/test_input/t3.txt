@@ -1,0 +1,7 @@
+JANIBA Kiliti0512 tuna 45 catfish 53 catfish 96
+JANIBA Szeged0820 catfish 45 sardinia 53 tuna 53
+JANIBA Springfield0906 bullhead 45
+KARIBA Kiliti0512 carp 45 tuna 45
+KARIBA Szeged0820 tuna 50 carp 53 catfish 96
+JASON Kiliti0512 salmon 20 tuna 45
+JASON Springfield0906 carp 45 tuna 45 

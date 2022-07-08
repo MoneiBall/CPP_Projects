@@ -1,0 +1,3 @@
+LUCAS Kiliti0512 tuna 45 carp 53 sardinia 46
+LUCAS Szeged0852 carp 55 sardinia 30 tuna 45
+

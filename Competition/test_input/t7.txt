@@ -1,0 +1,7 @@
+JANIBA Kiliti0512 carp 45 tuna 53 catfish 96
+JANIBA Szeged0820 catfish 45 tuna 53 catfish 96
+JANIBA Gesztes0906 carp 45 catfish 53 tuna 96
+KARIBA Kiliti0512 tuna 45 catfish 53 catfish 96
+KARIBA Szeged0820 carp 45 catfish 53 tuna 96
+JOHN Gesztes0906 carp 45 catfish 53 tuna 96
+JOHN Kiliti0512 carp 45 redfish 53 catfish 96

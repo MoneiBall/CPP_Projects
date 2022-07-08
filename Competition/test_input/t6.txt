@@ -1,0 +1,6 @@
+JANIBA Kiliti0512 carp 45 carp 53
+JANIBA Kiliti0514 bullhead 45 paddlefish 53 catfish 96
+JANIBA Szeged0820 catfish 45 tuna 53 paddlefish 96
+FREDERICH Springfield0906 bullhead 45 salmon 10
+KARIBA Kiliti0512 carp 45 sardinia 45
+KARIBA Szeged0820 sardinia 50 carp 53 catfish 96
