@@ -1,0 +1,6 @@
+JOHN Kiliti0512 carp 45 carp 53 catfish 96
+JOHN Szeged0820 carp 45 carp 53 catfish 96
+STEVEN Kiliti0512 carp 45 tuna 53 catfish 96
+STEVEN Szeged0820 carp 45 catfish 53 tuna 96
+RICHARD Gesztes0906 carp 45 tuna 53 catfish 96
+RICHARD Kiliti0512 carp 45 tuna 53 catfish 96
