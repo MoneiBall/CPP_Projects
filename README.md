@@ -9,7 +9,7 @@
 
     - [Exhilaration Racetrack](./Racetrack)
     - [Convex Hull Problem](./ConvexHull)
-    - [Competition](./Competititon)
+    - [Competition](./Competition)
     - [Polynomial](./Polynomial)
     - [Bag Container](./BagContainer)
     - [Platypus](./Platypus)
